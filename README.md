@@ -29,20 +29,20 @@ cd student-reg-app
 docker-compose up --build
 
 
-React app: http://localhost:3000
-FastAPI API: http://localhost:8000/docs
-PostgreSQL: running on port 5432
+- React app: http://localhost:3000
+- FastAPI API: http://localhost:8000/docs
+- PostgreSQL: running on port 5432
 
 ##✨ Features
-Register a new student (name + email)
-View all registered students
-Fully containerized with Docker Compose
-Persistent database storage
+- Register a new student (name + email)
+- View all registered students
+- Fully containerized with Docker Compose
+- Persistent database storage
 
 ##🧠 What I Learned
-Fullstack containerized app setup (React + Python + DB)
-Writing Dockerfiles and wiring up services via Docker Compose
-Handling PostgreSQL connection in Python + SQLAlchemy
-Managing CORS between frontend and backend
-Creating production builds with Nginx
+- Fullstack containerized app setup (React + Python + DB)
+- Writing Dockerfiles and wiring up services via Docker Compose
+- Handling PostgreSQL connection in Python + SQLAlchemy
+- Managing CORS between frontend and backend
+- Creating production builds with Nginx
 
