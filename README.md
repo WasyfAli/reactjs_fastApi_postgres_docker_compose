@@ -19,14 +19,15 @@ A fullstack student registration system with:
 
 ## 🚀 How to Run
 
-```bash
+
 # 1. Clone the project
 git clone https://github.com/yourname/student-reg-app.git
+
 cd student-reg-app
 
 # 2. Build and start containers
 docker-compose up --build
-```bash 
+
 
 React app: http://localhost:3000
 FastAPI API: http://localhost:8000/docs
